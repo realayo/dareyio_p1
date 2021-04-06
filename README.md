@@ -1,1 +1,1 @@
-# dareyio_p1
+# LAMP Stack Implementation in AWS
