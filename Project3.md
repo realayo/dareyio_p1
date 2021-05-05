@@ -1,10 +1,10 @@
 # A To-Do application on MERN Web Stack
 
 ### This simple application makes use of the following web stack
-1. MongoDB - NoSQL that stores application data inform of documents
-1. ExpressJs - A server side web app framework for Node.js
-1. ReactJs - A JS library for building frontend UI or UI components
-1. Node.js - A JS runtime environment that executes javascript codes.
+1. **MongoDB** - NoSQL that stores application data inform of documents
+1. **ExpressJs** - A server side web app framework for Node.js
+1. **ReactJs** - A JS library for building frontend UI or UI components
+1. **Node.js** - A JS runtime environment that executes javascript codes.
 
 ## Backend configuration
 
