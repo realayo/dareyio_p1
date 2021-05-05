@@ -406,4 +406,4 @@ monospace;
 1. In the directory, we run ``npm run dev``
 ![](https://user-images.githubusercontent.com/18899718/115130126-702e2700-9fb2-11eb-8700-8b16ab7b418a.png)
 
-We can go the the web browser and check out our running app.![](https://user-images.githubusercontent.com/18899718/115130144-9227a980-9fb2-11eb-8b7a-773615c3d085.png)
+We can go the web browser and check out our running app.![](https://user-images.githubusercontent.com/18899718/115130144-9227a980-9fb2-11eb-8b7a-773615c3d085.png)
