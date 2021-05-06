@@ -1,8 +1,10 @@
 # Client-Server Architecture with MySQL
 ## TASK - Implement a Client Server Architecture using MySQL Database Management System (DBMS)
 1. We create and configure two linux virutal servers on AWS and name them accordingly, ``client`` and ``server``.
-1. On ``server`` linux instance, install mysql server software
-``sudo apt update``
+1. On linux ``server`` instance, install mysql server software
+```
+sudo apt update
+```
 ```
 sudo apt install mysql-server -y
 ```
@@ -10,11 +12,11 @@ sudo apt install mysql-server -y
 ```
 sudo mysql_secure_installation
 ```
-follow the screen prompts to set up password and login into mysql 
+follow the on screen prompts to set up password and login into mysql 
 ```
 sudo mysql
 ```
-4. Create dedicated user ``project_user`` and grant privileges. 
+4. Create a dedicated user ``project_user`` and grant privileges. 
 ```
 CREATE USER 'project_user'@'%' IDENTIFIED WITH mysql_native_password BY 'password';
 ```
